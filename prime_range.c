@@ -17,7 +17,7 @@ prime = 0;
 break;
 }
 if(prime)
-printf(""\n%d", n);
+printf("\n%d", n);
 }
 getch();
 }
